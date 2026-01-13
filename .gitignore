@@ -1,0 +1,10 @@
+*.make
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.app
+*.vst3
+*.au
+*.lv2
